@@ -1,2 +1,11 @@
-# codeaplha_mini-social-app
-Mimi is a modern social media app designed to help users connect, share, and express themselves in a simple and engaging way. It allows people to post photos, videos, and short updates, interact through likes and comments, and discover trending content from around the world. With a clean interface and user-friendly features.
+
+  # Mini Social Media App UI
+
+  This is a code bundle for Mini Social Media App UI. The original project is available at https://www.figma.com/design/2KVKODsZIMGwuiRRO6Z7yL/Mini-Social-Media-App-UI.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
